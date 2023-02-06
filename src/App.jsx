@@ -1,7 +1,8 @@
+import WorkingStarter from './tutorial/01-useState/working/01-error-example'
 function App() {
   return (
     <div className='container'>
-      <h2>advanced react</h2>
+      <WorkingStarter />
     </div>
   );
 }
