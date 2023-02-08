@@ -6,15 +6,15 @@ const UseStateGotcha = () => {
     const handleClick = () => {
         setTimeout(() => {
             console.log('clicked the button');
-            console.log("inside handler, before setState:" + value)
+            console.log(`inside handler, before setState: ${value}`)
             setValue((oldValue)=> {
-                console.log("inside setValue:" + (oldValue + 1))
+                console.log(`inside setValue: ${oldValue + 1}`)
                 return oldValue+1
             });
-            console.log("inside handler, after setState:" + value)
+            console.log(`inside handler, after setState: ${value}`)
         }, 3000)
     }
-    console.log("in render:" + value)
+    console.log(`in render: ${value}`)
     return (
         <div>
             <h1>{value}</h1>
