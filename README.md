@@ -8,7 +8,7 @@ The initial commit is a clone of the 03 folder from John Smilga's "React Course 
 
 ## Support
 
-Find the Content Useful? [You can always buy me a coffee](https://www.buymeacoffee.com/johnsmilga)
+Find the Content Useful? [You can always buy John a coffee](https://www.buymeacoffee.com/johnsmilga)
 
 ## Run App
 
@@ -22,7 +22,7 @@ npm install && npm run dev
 
 Rest of the content in the TUTORIAL.md
 
-## Corresponding/Matching Projects
+## Corresponding/Matching Projects (inside Smilga's React Course)
 
 #### useState
 
