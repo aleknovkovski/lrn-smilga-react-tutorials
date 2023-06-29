@@ -1,8 +1,10 @@
 # React - Advanced Concepts
 
+The initial commit is a clone of the 03 folder from John Smilga's "React Course V3" Repo. It contains exercises that tackle advanced React concepts. This is the repo where I document as I progress through the tutorials and exercises.
+
 ## React Course
 
-[My React Course](https://www.udemy.com/course/react-tutorial-and-projects-course/?referralCode=FEE6A921AF07E2563CEF)
+[Smilga's React Course](https://www.udemy.com/course/react-tutorial-and-projects-course/?referralCode=FEE6A921AF07E2563CEF)
 
 ## Support
 
